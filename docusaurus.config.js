@@ -47,12 +47,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Facebook',
-              href: 'https://facebook.com/fymind',
-            },
-            {
               label: 'Twitter',
               href: 'https://twitter.com/4ur_mind',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://facebook.com/fymind',
             },
             {
               label: 'Discord',
