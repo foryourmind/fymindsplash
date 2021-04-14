@@ -29,3 +29,5 @@
   background-position: center;
   background-size: cover;
 }
+
+.button.button--secondary.button--outline:not(.button--active):not(:hover) {color: white;}
